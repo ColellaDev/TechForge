@@ -10,13 +10,18 @@
 
   --green-500: #00875f;
   --blue-500: #56cfe1;
-  --blue-300: #a8f3ff;
+  --blue-300: rgb(73, 138, 148);
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+:focus {
+  outline: transparent;
+  box-shadow: 0 0 0 2px var(--blue-500);
 }
 
 body {
