@@ -1,6 +1,6 @@
 import { Post } from './components/Post'
 import { Header } from './components/Header'
-import { Sidebar } from './components/Sidebar';
+import { Sidebar } from './components/Sidebar'
 
 import styles from './App.module.css';
 
@@ -10,30 +10,30 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://github.com/diego3g.png',
-      name: 'Diego Fernandes',
-      role: 'CTO @Rocketseat'
+      avatarUrl: "https://github.com/maria.png",
+      name: 'Mariana Dias',
+      role: 'Tech Lead @TechForge'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galera 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Bom dia time 👋' },
+      { type: 'paragraph', content: 'Essa semana vamos implementar a responsividade no aplicativo do cliente, verifiquem as responsabilidades de cada um no projeto, lembrem-se que teremos reunião na Quinta-Feira as 15hs, segue link com a pauta da reunião:' },
+      { type: 'link', content: 'mariana.techlead/reuniaoResponsividade' },
     ],
-    publishedAt: new Date('2022-05-03 20:00:00'),
+    publishedAt: new Date('2024-03-18 09:00:00'),
   },
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/maykbrito.png',
-      name: 'Mayk Brito',
-      role: 'Educator @Rocketseat'
+      avatarUrl: 'https://github.com/connor.png',
+      name: 'João Almeida',
+      role: 'Design Director @TechForge'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galera 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Fala galera!' },
+      { type: 'paragraph', content: 'Gostaria de compartilhar que na próxima semana teremos a Semana do Design com diversas atividades e palestras, acompanhe tudo pelo nosso cronograma 🚀' },
+      { type: 'link', content: 'semanaDesign/cronograma' },
     ],
-    publishedAt: new Date('2022-05-10 20:00:00'),
+    publishedAt: new Date('2024-03-19 11:00:00'),
   },
 ];
 
