@@ -13,9 +13,9 @@ Durante o desenvolvimento deste projeto, reforcei meus conhecimentos com React, 
 - React
 - Vite
 
-## Teste aqui
+## Deploy
 
-O Tech Forge Feed está disponível em .
+O Tech Forge Feed está disponível em https://techforgefeed.netlify.app/
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-colella-esteves-952a3866/)
