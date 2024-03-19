@@ -2,7 +2,7 @@
 https://github.com/ColellaDev/TechForge/assets/91292125/2842ac93-e4a3-4ee3-98e0-41bff76f17d2
 ## Sobre o Projeto
 
-Esta é uma aplicação que desenvolvi com o objetivo de simular um Feed interno de uma empresa ficticia chamada Tech Forge, onde a equipe pode publicar avisos, eventos e conquistas.
+Esta é uma aplicação que desenvolvi com o objetivo  de simular um Feed interno de uma empresa fictícia denominada Tech Forge. Nesta plataforma, a equipe tem a oportunidade de publicar e compartilhar avisos, eventos e conquistas, promovendo uma cultura de engajamento e colaboração. A interatividade é incentivada por meio de comentários e aplausos, criando um ambiente participativo.
 Durante o desenvolvimento deste projeto, reforcei meus conhecimentos com React, manipulação de datas, module.css e responsividade. 
 
 ## Tecnologias Utilizadas
